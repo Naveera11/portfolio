@@ -62,7 +62,7 @@ const projects = [
     title: "This website",
     description: "My personal website",
     image: "/assets/project-5.png",
-    href: "#",
+    href: "https://portfolio-eight-beryl-31.vercel.app/",
   },
 ];
 
